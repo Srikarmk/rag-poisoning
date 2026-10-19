@@ -1,0 +1,25 @@
+{
+  "model": "qwen3:8b",
+  "profile": "full",
+  "phases_done": [
+    "main",
+    "hop2",
+    "defence",
+    "repeat"
+  ],
+  "phases_missing_calls": {},
+  "digest": "500a1f067a9f782620b40bee6f7b0c89e17ae61f686b92c24933e4ca4b2b8b41",
+  "options": {
+    "temperature": 0,
+    "seed": 1234,
+    "num_ctx": 8192,
+    "num_predict": 160
+  },
+  "think": false,
+  "rows": 6107,
+  "new_calls": 0,
+  "cache_hits": 6107,
+  "elapsed_s": 2.0,
+  "distinct_calls": 3010,
+  "model_seconds_all_calls": 38057.9
+}

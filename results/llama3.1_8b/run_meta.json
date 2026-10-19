@@ -1,0 +1,25 @@
+{
+  "model": "llama3.1:8b",
+  "profile": "full",
+  "phases_done": [
+    "main",
+    "hop2",
+    "defence",
+    "repeat"
+  ],
+  "phases_missing_calls": {},
+  "digest": "46e0c10c039e019119339687c3c1757cc81b9da49709a3b3924863ba87ca666e",
+  "options": {
+    "temperature": 0,
+    "seed": 1234,
+    "num_ctx": 8192,
+    "num_predict": 160
+  },
+  "think": null,
+  "rows": 6047,
+  "new_calls": 0,
+  "cache_hits": 6047,
+  "elapsed_s": 2.0,
+  "distinct_calls": 2991,
+  "model_seconds_all_calls": 36081.0
+}

@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "One Bad Passage in 10,000: measuring retrieval poisoning in a RAG pipeline"
+abstract: "Plants one false or malicious passage at a time in a 10,000-passage corpus and measures how many questions it reaches, how often three open LLMs repeat it, how far it spreads, and what simple defences cost in clean accuracy."
+authors:
+  - family-names: Manda
+    given-names: Kameswara Sai Srikar
+date-released: "2026-10-19"
+url: "https://www.srikarmk.dev/projects/rag-poisoning"
+repository-code: "https://github.com/Srikarmk/rag-poisoning"
+license: MIT
+keywords: [rag, llm, data poisoning, prompt injection, evaluation]

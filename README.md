@@ -1,5 +1,7 @@
 # rag-poisoning
 
+<a href="https://www.srikarmk.dev/projects/rag-poisoning"><img alt="Case study" src="https://img.shields.io/badge/case%20study-srikarmk.dev-5b4fc9" /></a> <a href="https://www.srikarmk.dev/series/measuring-llm-systems"><img alt="Series" src="https://img.shields.io/badge/series-Measuring%20LLM%20Systems-5b4fc9" /></a> <a href="pyproject.toml"><img alt="Python" src="https://img.shields.io/badge/python-3.11%2B-blue" /></a> <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-blue" /></a>
+
 **Question.** Plant one bad passage in a 10,000-passage corpus that a retrieval-augmented QA system
 answers from. How many questions does it reach, how often does the model repeat it, how far does it
 spread, and which simple defences stop it, at what cost in accuracy on clean questions?
